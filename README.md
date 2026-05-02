@@ -1,6 +1,6 @@
-# NLW Agents
+# NLW Agents  
+🚀 Em breve você poderá conferir o projeto completo!
 
-Projetos desenvolvido durante e o NLW da Rocketseat 🚀
 
 ## Tecnologias Utilizadas
 
